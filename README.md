@@ -1,9 +1,9 @@
 # 👋 Welcome!
 
 Hi there! Welcome to my GitHub profile. I’m passionate about technology and constantly working on new projects in machine learning, data science, and DevOps. Explore my repositories to see what I’ve been up to!
----
+
 Currently looking for job oppurtunities and internships!
----
+
 
 ## 🧑‍💻 About Me
 
