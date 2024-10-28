@@ -7,7 +7,9 @@ Currently looking for job oppurtunities and internships!
 
 ## 🧑‍💻 About Me
 
-I am a Computer Science student with a focus on Machine Learning and Data Science at the University of Copenhagen. I enjoy building projects that challenge me to learn new skills and dive deeper into the world of AI and development. My current projects involve applying machine learning to solve real-world problems, and I am actively expanding my portfolio.
+I am a Computer Science student with a focus on Machine Learning and Data Science at the University of Copenhagen. I have also spent one year as an exchange student in South Korea at Hanyang University, where I took a lot of courses that explored the fields of Data science and Machine Learning.
+
+I enjoy building projects that challenge me to learn new skills and dive deeper into the world of AI and development. My current projects involve applying machine learning to solve real-world problems, and I am actively expanding my portfolio.
 
 ---
 
